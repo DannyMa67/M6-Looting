@@ -1,6 +1,6 @@
 [gd_scene load_steps=12 format=3 uid="uid://cit7gnkdckyux"]
 
-[ext_resource type="PackedScene" uid="uid://b27yxfpkfvoha" path="res://lessons/chest/chest.tscn" id="1_jj8kc"]
+[ext_resource type="PackedScene" uid="uid://b27yxfpkfvoha" path="res://lessons/items/chest.tscn" id="1_jj8kc"]
 [ext_resource type="Texture2D" uid="uid://114x1a0rmx4l" path="res://assets/dungeon/smooth_dungeon_tileset.png" id="1_sym7n"]
 [ext_resource type="Texture2D" uid="uid://cae527caaj50v" path="res://assets/dungeon/shadow_map.png" id="2_jthdw"]
 [ext_resource type="Texture2D" uid="uid://dpym64uaptlhb" path="res://assets/dungeon/grass_tileset.png" id="3_5xjiv"]
